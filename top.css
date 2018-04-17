@@ -1,0 +1,56 @@
+body{
+    background-image: url("./background.png");
+}
+
+header{
+    width: 100%;
+}
+
+header h1{
+    text-align: center;
+    font-size: 33px;
+}
+
+section{
+    width: 850px;
+    margin: 0 auto;
+}
+
+#profile{
+    width: 260px;
+    height: 900px;
+    float: left;
+}
+
+#profile p{
+    text-align: start;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+#profile_text{
+    line-height: 28px;
+}
+
+#news{
+    float: left;
+    margin-left: 10px;
+    padding: 0;
+}
+
+#news p{
+    text-align: center;
+}
+
+.kao{
+    border: 0;
+    width: 256px; 
+    height: 304px;
+    margin-left: 0;
+    padding-left: 0;
+    background-color: bisque;
+}
+
+#news .award{
+    font-weight: bold;
+    text-align: left
+}

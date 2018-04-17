@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(229, 229, 252);
+    text-align: left;
+    height: 90%;
+    white-space: nowrap;
+}
+
+#menu{
+    list-style: none;
+    line-height: 28px;
+    padding-left: 20px;
+}
+
+#menu01{
+    color: darksalmon;
+}
+
+#menu02{
+    color: lawngreen;
+}
+
+#menu03{
+    color: aqua;
+}
+
+#menu04{
+    color: dodgerblue;   
+}
+
+#menu05{
+    color: mediumblue;
+}
+
+#menu06{
+    color: slateblue;
+}
+
+#menu07{
+    color: mediumvioletred;
+}
